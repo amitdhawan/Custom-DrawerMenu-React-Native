@@ -27,7 +27,7 @@ The main purpose of this project is as below:-
 4. Call the dispatch function for drawer open and close functions.
 
 # Demo
-
+![Demo](https://github.com/amitdhawan/Custom-DrawerMenu-React-Native/blob/master/CustomDrawer/SideMenu.gif)
 
 
 Any suggestions are welcome, if you like the project don't forget to add a star on this repo :-)
