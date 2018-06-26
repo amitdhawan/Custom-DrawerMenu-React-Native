@@ -21,7 +21,6 @@ export default createDrawerNavigator({
   Screen3: {
     screen: Screen3,
   },
-
 }, {
   drawerWidth: DEVICE_WIDTH - 100,
   contentComponent: props => (
